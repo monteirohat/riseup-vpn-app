@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Vpn
+Comment=Open Riseup-vpn
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Categories=Network;Application;
+Icon=/usr/share/icons/custom/vpn.svg
+Exec=/opt/vpn/start.sh
+StartupNotify=true
