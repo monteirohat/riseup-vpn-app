@@ -1,5 +1,3 @@
-# riseup-vpn-app
-
 ## What is a VPN?
 Riseup offers Personal VPN service for censorship circumvention, location anonymization and traffic encryption. To make this possible, it sends all your internet traffic through an encrypted connection to riseup.net, where it then goes out onto the public internet.
 
