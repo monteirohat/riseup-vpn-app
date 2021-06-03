@@ -16,3 +16,7 @@ To learn more about RiseUp VPN, visit the official website or download the sourc
 Site: https://riseup.net/en/vpn
 
 Repository: https://0xacab.org/leap/bitmask-vpn
+
+## What you will find here.
+
+Here are just files that will make it easier to install and use RiseUp VPN on your Ubuntu operating system.
