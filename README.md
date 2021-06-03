@@ -23,8 +23,12 @@ Here are just files that will make it easier to install and use RiseUp VPN on yo
 
 ![image1](https://github.com/monteirohat/riseup-vpn-app/blob/51f086de438e274b8394e59c3d54bf931d54cb7c/images/img1.png)
 
-## How to use
+## How to use (install)
 
 Run the install.sh file and you're done. Simple and easy.
 
 ```./install.sh```
+
+## How to remove (uninstall)
+
+```./uninstall.sh```
