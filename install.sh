@@ -44,6 +44,8 @@ echo "1 - Copying the application start file."
 
 cp start.sh $DIR_VPN
 
+chmod 777 -R "${DIR_VPN}/start.sh"
+
 #2 - Copiando icone da aplicação
 echo "2 - Copying the application icon."
 
