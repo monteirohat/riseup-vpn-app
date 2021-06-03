@@ -27,4 +27,4 @@ Here are just files that will make it easier to install and use RiseUp VPN on yo
 
 Run the install.sh file and you're done. Simple and easy.
 
-```./install,sh```
+```./install.sh```
